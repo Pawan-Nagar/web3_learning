@@ -26,4 +26,4 @@ License
 This contract is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
-For questions or feedback, feel free to contact Pawan Nagr
+For questions or feedback, feel free to contact Pawan Nagar
