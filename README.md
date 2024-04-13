@@ -1,4 +1,4 @@
-Solidity Storage Contract
+Solidity Storage Contract:
 This repository contains a Solidity smart contract demonstrating basic data storage and retrieval functionalities using Ethereum's blockchain .
 
 Features
